@@ -2,8 +2,11 @@ API is live
 <br>
 API LINK : "https://rpg-a4w5.onrender.com"
 <br>
+[LINK](https://rpg-a4w5.onrender.com)
+<br>
 END POINT for POST : "/post"
 <br>
 Make a get request on the link to obtain a sample of post request,
 <br>
-make sure to set Content-Type : application/json
+
+make sure to set `Content-Type : application/json`
