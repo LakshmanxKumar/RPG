@@ -18,7 +18,13 @@ Make a get request on the link to obtain a sample of post request,
 <br>
 sample
 ```
-{"length":8,"upperCase":true,"lowerCase":true,"specialCase":false,"numbers":false}
+{
+  "length":8,
+  "upperCase":true,
+  "lowerCase":true,
+  "specialCase":false,
+  "numbers":false
+}
 ```
 
 make sure to set `Content-Type : application/json`
