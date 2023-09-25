@@ -1,7 +1,6 @@
 # Random Password Generator
 #### API is live
 
-<br>
 [API LINK](https://rpg-a4w5.onrender.com) : "https://rpg-a4w5.onrender.com"
 <br>
 
